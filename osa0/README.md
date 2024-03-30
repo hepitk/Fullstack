@@ -1,7 +1,8 @@
-osan 0 tehtävien vastaukset:
+Osan 0 tehtävien vastaukset:
 
 Tehtävä 0.4:
 
+```mermaid
 sequenceDiagram
     actor User
     participant Browser
@@ -24,5 +25,6 @@ sequenceDiagram
     deactivate Server
 
     Note over Browser: Browser renders the notes including the new one
+```
 
 Tehtävä 0.5:
