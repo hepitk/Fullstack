@@ -1,1 +1,1 @@
-# Fullstack-kussin osien 1 ja 2 palautusrepositorio
+# Fullstack-kussin osien 0-2 palautusrepositorio
